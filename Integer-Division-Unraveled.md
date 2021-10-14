@@ -228,7 +228,7 @@ The use of `std::signbit` is avoided as [it casts](https://en.cppreference.com/w
 
 The `%` operator may be invoked twice in `floored_modulo` and `ceilinged_modulo`. The first tests for remainder and the second produces it. It does not seem worth denormalizing the implementation by adding a variable to cache the value in the (sometimes) case where there is a non-zero remainder. So in these cases I am relying on CPU cache and/or compiler optimization to avoid remainder recomputation.
 
-The `constexpr ` keyword ensures that the functions can be evaluated at compile time and advises the compiler that inlining of the functions is preferred. Generally I prefer to let the compiler make these decisions, preserving code readability.
+The `constexpr` keyword ensures that the functions can be evaluated at compile time and advises the compiler that inlining of the functions is preferred. Generally I prefer to let the compiler make these decisions, preserving code readability.
 
 Despite the relative verbosity of the templates the result should be as optimal as manually inlining the minimal *necessary* operations. A few runs through an NDEBUG build in a debugger confirm this.
 
