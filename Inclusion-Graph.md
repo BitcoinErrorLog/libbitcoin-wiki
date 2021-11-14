@@ -12,7 +12,7 @@ optional      :
 assert        :
 version       :
 define        : assert, version
-error         : define
+/error        : define
 exceptions    : define
 constants     : define
 constraints   : constants
