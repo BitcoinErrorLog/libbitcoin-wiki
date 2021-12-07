@@ -24,7 +24,7 @@ The outcome for mutual Dollar (**P**unishment):
 * No economic sanction of trading partner.
 * A reserve currency taxed via seigniorage.
 
-#### Strong Symmetric Dilemma With Ordinal Outcome Relations
+#### [Strong Symmetric Dilemma With Ordinal Outcome Relations](https://plato.stanford.edu/entries/prisoner-dilemma/#Symm2t2PDOrdiPayo)
 
 |Brazil\Ireland|Bitcoin|Dollar|
 |--------------|-------|------|
@@ -39,7 +39,7 @@ We can conclude that `P > S` holds, as individual sanction implies no internatio
 
 To determine if `R > P` and `T > R` hold, an objective method is required to relate only seigniorage and sanction, as presumably sanctions are undesirable. This can be obtained by the observation that Gold is subject to neither [seigniorage](https://en.wikipedia.org/wiki/Seigniorage) nor sanction. **In other words Gold provides the above benefits of Bitcoin without sanction.** Yet Gold has not been chosen (and was previously dropped in favor of Dollar), which implies the Dollar outcome is preferred to Gold and therefore Bitcoin. As such, neither of the [dominant strategies](https://en.wikipedia.org/wiki/Strategic_dominance) hold. As such there is no dilemma.
 
-#### Strong Asymmetric Dilemma With Ordinal Outcome Relations
+#### [Strong Asymmetric Dilemma With Ordinal Outcome Relations](https://plato.stanford.edu/entries/prisoner-dilemma/#Asym)
 
 |Brazil\Ireland|Bitcoin|Dollar|
 |--------------|-------|------|
