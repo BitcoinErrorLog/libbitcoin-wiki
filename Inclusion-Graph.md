@@ -9,7 +9,6 @@ A dependency is indicated below in a manner similar to class inheritance, using 
 ```
 assert         :
 constants      :
-optional       :
 version        :
 define         : assert, version
 /error         : define
