@@ -9,11 +9,11 @@ A dependency is indicated below in a manner similar to class inheritance, using 
 ```
 assert         :
 constants      :
+constraints    : constants
 version        :
 define         : assert, version
 /error         : define
 exceptions     : define
-constraints    : constants
 /unicode       : exceptions
 /math          : constraints, exceptions
 /data          : /math, /unicode
