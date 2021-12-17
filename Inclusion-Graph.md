@@ -27,7 +27,6 @@ constraints   : constants
 /chain        : /crypo, mutex, optional, [/settings]
 settings      : /chain
 /machine      : /chain
-/message      : /chain
-/config       : /message
-/wallet       : /message
+/config       : /chain
+/wallet       : /chain
 ```
