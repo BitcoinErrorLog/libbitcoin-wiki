@@ -22,7 +22,7 @@ exceptions     : define
 /serial        : /radix
 /stream        : /serial, error
 /crypto        : /stream
-/chain         : /crypo, mutex, [/settings]
+/chain         : /crypo, [/settings]
 settings       : /chain
 /machine       : /chain
 /config        : /chain
