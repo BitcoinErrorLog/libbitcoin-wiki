@@ -19,8 +19,8 @@ exceptions     : define
 /words         : /data
 /radix         : /words
 /serial        : /radix
-/stream        : /serial, error
-/crypto        : /stream
+/crypto        : /radix
+/stream        : /crypto, /serial, /error
 /chain         : /crypo, [/settings]
 settings       : /chain
 /machine       : /chain
