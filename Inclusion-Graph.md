@@ -11,6 +11,7 @@ constants      :
 constraints    : constants
 version        :
 define         : version
+boost          : define
 /error         : define
 exceptions     : define
 /unicode       : exceptions
