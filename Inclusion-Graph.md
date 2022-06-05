@@ -10,7 +10,8 @@ A dependency is indicated below in a manner similar to class inheritance, using 
 constants      :
 constraints    : constants
 version        :
-define         : version
+warnings       :
+define         : version, warnings
 boost          : define
 /error         : define
 exceptions     : define
