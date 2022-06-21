@@ -121,8 +121,9 @@ inline Exponent ceilinged_log(Base base, Value value) noexcept
     if (base < 2 || value < 1)
         return 0;
 
-    const auto log = floored_log<Exponent>(base, value);
-    return log + ((power<Value>(base, log) == value) ? 0 : 1);
+    Exponent exponent = 0;
+    while (value > 0) { ++exponent; value /= base; }
+    return exponent;
 }
     
 // Returns 0 for undefined (value < 1).
@@ -133,8 +134,10 @@ inline Exponent ceilinged_log2(Value value) noexcept
     if (value < 1)
         return 0;
 
-    const auto log = floored_log2<Exponent>(value);
-    return log + ((power2<Value>(log) == value) ? 0 : 1);
+    // C++ 20 (std::bit_width).
+    using exponent = std::make_unsigned<Exponent>::type;
+    const auto from = static_cast<exponent>(value);
+    return static_cast<Exponent>(std::bit_width(from));
 }
 
 // Returns 0 for undefined (base < 2 or value < 1).
@@ -158,9 +161,10 @@ inline Exponent floored_log2(Value value) noexcept
     if (value < 1)
         return 0;
 
-    Exponent exponent = 0;
-    while (((value >>= 1)) > 0) { ++exponent; };
-    return exponent;
+    // C++ 20 (std::bit_width).
+    using exponent = std::make_unsigned<Exponent>::type;
+    const auto from = static_cast<exponent>(value);
+    return static_cast<Exponent>(std::bit_width(from) + 1);
 }
 ```
 
