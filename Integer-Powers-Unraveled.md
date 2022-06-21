@@ -131,7 +131,7 @@ template <typename Exponent = size_t, typename Value,
     if_integer<Exponent> = true, if_integer<Value> = true>
 inline Exponent ceilinged_log2(Value value) noexcept
 {
-    if (value < 1)
+    if (is_negative(value))
         return 0;
 
     // C++ 20 (std::bit_width).
