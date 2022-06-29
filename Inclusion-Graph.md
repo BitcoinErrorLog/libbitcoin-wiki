@@ -7,8 +7,7 @@ Each root include directory contains a master include file. This should be used 
 A dependency is indicated below in a manner similar to class inheritance, using `:` and `,`. Only the highest level dependency in a dependency chain is listed. In some cases there may be more than one. An inclusion cycle can be broken using a C++ forward declaration where appropriate, indicated by square braces `[]`.
 
 ```
-literals       :
-integrals      : literals
+integrals      :
 constants      : integrals
 constraints    : constants
 version        :
