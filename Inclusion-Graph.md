@@ -10,7 +10,8 @@ A dependency is indicated below in a manner similar to class inheritance, using 
 
 ```
  version        : 
- warnings       : version
+ have           : version
+ warnings       : have
  boost          : warnings
  exceptions     : boost
  types          : exceptions
