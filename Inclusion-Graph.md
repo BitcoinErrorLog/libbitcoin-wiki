@@ -14,7 +14,7 @@ A dependency is indicated below in a manner similar to class inheritance, using 
  boost          : warnings
  exceptions     : boost
  types          : exceptions
- constants      : integrals
+ constants      : types
  literals       : constants
  funclets       : literals
  typlets        : funclets
