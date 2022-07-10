@@ -11,9 +11,9 @@ A dependency is indicated below in a manner similar to class inheritance, using 
 ```
  version        : 
  have           : version
- intrinsics     : have
- warnings       : intrinsics
- boost          : warnings
+ warnings       : have
+ intrinsics     : warnings
+ boost          : intrinsics
  exceptions     : boost
  types          : exceptions
  constants      : types
