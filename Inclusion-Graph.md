@@ -36,8 +36,8 @@ define         : constraints
 /crypto        : /hash
 /stream        : /crypto /endian /error
 /chain         : /stream [/settings]
-settings       : /chain
 /machine       : /chain
 /config        : /chain
 /wallet        : /chain
+settings       : /chain
 ```
