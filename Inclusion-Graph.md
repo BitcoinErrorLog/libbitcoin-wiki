@@ -9,32 +9,35 @@ The master include file for the root directory is `define.hpp`. This is included
 A dependency is indicated below in a manner similar to class inheritance, using `:` and `,`. Only the highest level dependency in a dependency chain is listed. In some cases there may be more than one. An inclusion cycle can be broken using a C++ forward declaration where appropriate, indicated by square braces `[]`.
 
 ```
- version        : 
- have           : version
- warnings       : have
- intrinsics     : warnings
- boost          : intrinsics
- exceptions     : boost
- types          : exceptions
- constants      : types
- literals       : constants
- funclets       : literals
- typlets        : funclets
- constraints    : typlets
- define         : constraints
+version        : <generated>
+have           : version
+warnings       : have
+boost          : warnings
+exceptions     : boost
+types          : exceptions
+constants      : types
+literals       : constants
+cpuid          : literals
+intrinsics     : assembly
+funclets       : intrinsics
+typelets       : funclets
+constraints    : typelets
+define         : constraints
 
- /error         : define
- /unicode       : define
- /math          : define
- /data          : /math, /unicode
- /words         : /data
- /radix         : /words
- /serial        : /radix
- /crypto        : /radix
- /stream        : /crypto, /serial, /error
- /chain         : /stream, [/settings]
- settings       : /chain
- /machine       : /chain
- /config        : /chain
- /wallet        : /chain
+/error         : define
+/unicode       : define
+/math          : define
+/data          : /math
+/endian        : /data
+/words         : /data
+/radix         : /words
+/serial        : /radix
+/hash          : /radix
+/crypto        : /hash
+/stream        : /crypto /endian /error
+/chain         : /stream [/settings]
+settings       : /chain
+/machine       : /chain
+/config        : /chain
+/wallet        : /chain
 ```
