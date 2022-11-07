@@ -1,1 +1,1 @@
-Redirect to [Proof of Memory Façade](Proof-of-Memory-Facade).
+Redirect to [Proof of Memory Façade](Proof-of-Memory-Façade).
