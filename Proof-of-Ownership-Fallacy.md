@@ -1,0 +1,1 @@
+Redirect to [Blockchain Fallacy](Blockchain-Fallacy).
