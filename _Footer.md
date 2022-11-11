@@ -1,4 +1,4 @@
 [Users](Home) | 
 [Developers](https://github.com/libbitcoin/libbitcoin/blob/version2/README.md) | 
 [License](https://github.com/libbitcoin/libbitcoin/blob/version2/COPYING) | 
-Copyright © 2011-2018 libbitcoin developers
+Copyright © 2011-2022 libbitcoin developers
