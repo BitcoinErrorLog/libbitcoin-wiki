@@ -39,5 +39,5 @@ define         : constraints
 /machine       : /chain
 /config        : /chain
 /wallet        : /chain
-settings       : /chain
+settings       : /config
 ```
