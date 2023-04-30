@@ -41,7 +41,7 @@ Person has actually lent to his own enterprise (e.g. lending business) a fractio
 
 Person's business is operating with 10% reserve, as 90% of his deposited money is at risk of default. Projecting this into the naive view of banking requires only renaming "Lender" to "Depositor" and "Business" to "Bank". There is no need to assume that these are distinct individuals:
 
-|           |Savings   |Money     |Credit    |Sebt      |
+|           |Savings   |Money     |Credit    |Debt      |
 |-----------|----------|----------|----------|----------|
 |Depositor  |     100oz|      10oz|      90oz|          |
 |Bank       |          |       9oz|      81oz|      90oz|
@@ -135,7 +135,7 @@ This however demonstrates no actual spending of either the loan credit or the ba
 |Bank       |          |       9oz|      81oz|      90oz|      90oz|      90oz|
 |Borrower   |          |      81oz|          |      81oz|      81oz|      81oz|
 
-Notice that the this is identical to the outcome of the naive view. **There is no distinction between these supposedly-competing views on money creation,** invaliding the theory. This resolves the [centuries-old debate](https://en.wikipedia.org/wiki/Credit_theory_of_money#Scholarship), apparently begun between [Plato](https://en.wikipedia.org/wiki/Plato) and [Aristotle](https://en.wikipedia.org/wiki/Aristotle), regarding whether money is based on mining or credit. The theories are identical, as money and credit are a [duality](https://en.wiktionary.org/wiki/duality).
+Notice that the this is identical to the outcome of the naive view. **There is no distinction between these supposedly-competing views on money creation,** invalidating the theory. This resolves the [centuries-old debate](https://en.wikipedia.org/wiki/Credit_theory_of_money#Scholarship), apparently begun between [Plato](https://en.wikipedia.org/wiki/Plato) and [Aristotle](https://en.wikipedia.org/wiki/Aristotle), regarding whether money is based on mining or credit. The theories are identical, as money and credit are a [duality](https://en.wiktionary.org/wiki/duality).
 
 > According to Joseph Schumpeter, the first known advocate of a credit theory of money was Plato. Schumpeter describes metallism as the other of "two fundamental theories of money", saying the first known advocate of metallism was Aristotle.
 
