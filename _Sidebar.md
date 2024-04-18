@@ -1,5 +1,6 @@
 ### Libbitcoin Menu
 * **[Home](Home)**
+* **[manifesto](libbitcoin-manifesto.pdf)**
 * **[libbitcoin.info](https://libbitcoin.info/)**
 * **[Libbitcoin Institute](https://libbitcoininstitute.org/)**
 * **[Freenode (IRC)](https://webchat.freenode.net?channels=#libbitcoin)**
