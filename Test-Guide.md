@@ -14,12 +14,11 @@ BOOST_AUTO_TEST_CASE([class|file]__[method|function]__[condition]__[expectation]
 ```
 For example:
 ```c
+BOOST_AUTO_TEST_CASE(reservation__stopped__import_last_block__true)
+```
 
 #### Testing constexpr
 A `constexpr` method, function or define should be tested using `static_assert`. One that exposes distinct behavior when not constant evaluated (e.g. branching on `std::is_constant_evaluated()`) should be tested both using static assertion and under a BOOST test case.
-
-BOOST_AUTO_TEST_CASE(reservation__stopped__import_last_block__true)
-```
 
 Tests against a method, constructor or function override should use a simple ordinal numbering scheme to group test of the same signature. For example:
 ```c
