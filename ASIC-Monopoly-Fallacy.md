@@ -1,3 +1,9 @@
+TLDR:
+The theory of Bitcoin ASIC price control by a miner cartel is flawed. Cartels operate like any firm—market forces drive efficiency, internal subsidies, and economies of scale, with no external advantage. Raising prices requires limiting output, but competition drives prices back down.
+
+Monopoly pricing only comes from state grants. Claims that buying ASICs boosts cartel hash power ignore that capital seeks equal returns across all investments. If ASICs are overpriced, new competition should arise. Cartel-driven "pooling pressure" isn't due to the Bitcoin protocol but external market distortions.
+----------
+
 There is a theory that Bitcoin [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) price is controlled by a [cartel](https://mises.org/library/man-economy-and-state-power-and-market/html/p/1059) of [miners](Glossary#miner), creating a disproportionate advantage to [mining](Glossary#mine) partners of the cartel.
 
 There is no economic difference between a cartel and a single organization. Changing organizational size is a free [market](Glossary#market) outcome observable as capital seeks optimal [economies of scale](https://en.wikipedia.org/wiki/Economies_of_scale). If partners receive ASICs at a price that produces a below market return on capital, it amounts to an internal subsidy between partners. The same is true of a price that produces an above market return on capital, with the subsidy in the opposite direction. As such there is no net advantage to such discounting between partners.
