@@ -1,3 +1,11 @@
+TLDR:
+
+Bitcoin's definition has always been elusive, largely due to its overloaded use. Originally coined by Satoshi for a set of principles, "Bitcoin" later described the prototype software, a blockchain, consensus rules, a unit of currency, and a community. This makes defining it clearly challenging, as each context varies—there are many implementations, rule deviations, dynamic histories, and different coins and communities.
+
+Here, "Bitcoin" represents the foundational Cryptodynamic Principles. Specific implementations (like Bitcoin Core or Libbitcoin), chains (e.g., BTC, LTC), and units (btc, ltc) are differentiated for clarity. Despite some maximalists insisting Bitcoin is tied to its original history, the term is better suited to the principles it was born to embody, while chains are more accurately identified by their trading symbols.
+
+--------
+
 Bitcoin has since its inception [defied clear definition](http://gavinandresen.ninja/a-definition-of-bitcoin). This is a consequence of the heavily overloaded use of the term. The term was coined by Satoshi in [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf), as a label for the essential concepts. It was later used also for the prototype implementation, a [chain](Glossary#chain) (history) of [transaction](Glossary#transaction) [confirmation](Glossary#confirmation), a set of [consensus rules](Glossary#consensus-rules) that constrain a chain, a [unit](Glossary#unit) of the [coin](Glossary#coin), and a vaguely-bounded community of [people](Glossary#person).
 
 While there is only one set of concepts, each of the other contexts has any number of possible variations consistent with them. There are many implementations (of the prototype and otherwise), consensus rules have deviated (in the prototype and in other implementations), history is dynamic and arbitrary (even the prototype-encoded [genesis](Glossary#genesis) [block](Glossary#block) could have been different without consequence), and each coin manifests an independent set of units and is supported by its own set of adherents.
