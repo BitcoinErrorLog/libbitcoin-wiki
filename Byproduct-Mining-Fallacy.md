@@ -1,3 +1,11 @@
+TLDR:
+
+This theory suggests that Bitcoin mining using waste energy, like unused natural gas, reduces net energy consumption. In reality, this creates a new byproduct market. Competition drives up the price, eventually erasing the advantage. Initially, lower mining costs may seem beneficial, but they incentivize increased mining until costs match rewards—leading to more energy consumption overall.
+
+However, turning waste into a monetizable resource does increase total energy supply, potentially reducing broader market energy prices. This can lead to greater production or wealth creation. Still, assuming a reduction in overall energy consumption is incorrect—more likely, it will increase due to the expanded opportunity for mining.
+
+--------
+
 There is a theory that, to the extent Bitcoin [mining](Glossary#mine) can consume a necessary and otherwise unmarketable [byproduct](https://en.m.wikipedia.org/wiki/Waste) of energy production, such as [unused natural gas](https://en.m.wikipedia.org/wiki/Gas_flare), a reduction in net energy consumption is implied.
 
 Given a new byproduct [market](Glossary#market), not taking advantage of the presumed lower [price](Glossary#price) represents [opportunity cost](https://en.wikipedia.org/wiki/Opportunity_cost) to each [miner](Glossary#miner). Competition for the byproduct increases its price, eventually up to the level where the net advantage is eliminated. In the interim this represents a mining profit [opportunity](https://bitcoinist.com/bitcoin-mining-waste-oil-industry).
