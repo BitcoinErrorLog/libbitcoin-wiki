@@ -1,3 +1,13 @@
+TLDR:
+
+Unnecessary miner costs, like misconfigured machines, are waste—they don’t improve double-spend or censorship resistance. Only essential costs that efficiently produce hash power contribute to security.
+
+The idea of using Proof-of-Work to generate valuable byproducts (e.g., prime numbers) is flawed. Competition still drives costs to match rewards, making any byproduct irrelevant.
+
+Merged mining also fails to improve new coin security: hash power earned from another chain doesn’t add to the new coin's security and can be censored at no additional cost.
+
+--------
+
 Unnecessary costs incurred by [miners](Glossary#miner) contribute nothing to either double-spend resistance or [censorship resistance](Censorship-Resistance-Property). Such costs constitute true waste, representing nothing more than a given miner's inefficiency. For example, it does not contribute to security if a miner with misconfigured [machines](Glossary#machine) expends a great deal of energy while being unable to win a [reward](Glossary#reward) due to the misconfiguration. Any cost that is not strictly required for the optimal generation of [hash power](Glossary#hash-power) is not a necessary cost. A misconfiguration of one miner does not represent cost to another.
 
 There is a theory that [proof-of-work](Glossary#proof-of-work) (PoW) can be made more [energy efficient](https://github.com/libbitcoin/libbitcoin-system/wiki/Efficiency-Paradox) by introducing non-dedicated costs to the [mining](Glossary#mine) function. One such example is the discovery of [prime numbers](http://primecoin.io). The reason to incorporate such costs is that the resulting discoveries have presumed marketable value. If not there would objectively be no value in the incorporation.
