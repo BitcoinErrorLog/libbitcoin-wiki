@@ -1,3 +1,15 @@
+TLDR:
+
+Cryptodynamics refers to the core principles that define Bitcoin and differentiate it from other technologies. It combines "crypto" (strong cryptography in currency) and "dynamics" (forces impacting security and transactions). Cryptodynamics involves three essential forces for Bitcoin security:
+
+* [Risk Sharing](Risk-Sharing-Principle)
+* [Energy Sinking](Proof-of-Stake-Fallacy)
+* [Power Regulating](Censorship-Resistance-Property)
+
+These forces are rooted in self-interested human actions, ensuring Bitcoin's resilience. A system lacking any of these is not Bitcoin. Cryptodynamic security demands these principles intact; technologies like permissioned blockchains, proof-of-stake systems, or subsidy-reliant models fail this test and are not cryptodynamically secure.
+
+--------
+
 Cryptodynamics is a term coined here for the purpose of easily referring to the fundamental principles of [Bitcoin](Glossary#bitcoin). This is intended to both inform understanding of Bitcoin and differentiate it from other technologies. The principles are the minimal subset of cryptoeconomic principles necessary to achieve this objective.
 
 While the choice of name is not too important, a rationale for it is provided below.
