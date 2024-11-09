@@ -1,3 +1,11 @@
+TLDR:
+
+Bitcoin's weaknesses stem from centralization and mining pooling pressures. Pooling weakens transaction security, while centralization weakens consensus, concentrating risk among fewer actors. Merchants, who can reject non-conforming units, are critical to maintaining consensus rules, but centralization pressures like difficulty of use and transaction costs often push them towards trusted intermediaries.
+
+These intermediaries—payment processors, web wallets, and hosted APIs—reduce the merchant's control over consensus rules, essentially delegating power to single entities. In low-risk environments, merchants are less motivated to bear Bitcoin's security costs, preferring simpler, centralized solutions if it means higher returns.
+
+--------
+
 Bitcoin [weakness](Axiom-of-Resistance) results from [centralization](Glossary#centralization) and from [pooling](Glossary#pooling). Forces that produce aggregated [mining](Glossary#mine) are called [pooling pressures](Pooling-Pressure-Risk). While pooling weakens [confirmation](Glossary#confirmation) security, centralization weakens the security of [consensus rules](Glossary#consensus-rules). Weakness is the result of fewer [people](Glossary#person) with whom to [share risk](Risk-Sharing-Principle).
 
 Consensus risk is shared among active [merchants](Glossary#merchant) only, as they are the people who have the ability to refuse [trade](Glossary#trade) of property for [units](Glossary#unit) that fail to conform to their rules. Financial forces that reduce the number of merchants are called centralization pressures. The problem of [delegation](Glossary#delegation) is that it is commonly coupled with centralization, as is typical in [web wallets](https://bitcoin.org/en/wallets/web). The wallet not only [owns](Glossary#owner) the saved units but typically also controls [validation](Glossary#validation) of units received in trade. **The latter reduces power over consensus rules to one person for all of the wallets of the service.**
