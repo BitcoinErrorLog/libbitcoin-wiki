@@ -1,3 +1,11 @@
+TLDR:
+
+A contract representing an asset is essentially a claim on its custodian, whose reliability determines value. Bitcoin differs from state money by being non-custodial, spreading risk across all merchants willing to accept it. 
+
+Merchant acceptance affects Bitcoin’s utility, but there’s no contractual obligation like a typical security. Blockchain technology cannot prevent custodial fraud; Bitcoin’s custodial risk reduction comes from its widespread use, not contractual security.
+
+--------
+
 When a contract represents an asset, the contract is a claim against the asset's custodian. This claim is often called a security, with the intended implication that the claim is "secured" against custodial failure to [exchange](Glossary#exchange) the asset under the terms of the contract. The monetary [value](Glossary#value) of the security is that of the underlying asset minus the exchange and claim enforcement costs.
 
 Custodial risk is a central aspect of any [money](Money-Taxonomy). The usefulness of a money is limited by the reliability of its custodian. Being [human](Glossary#person), the reliability of a custodian cannot be assured. In the case of [state](Glossary#state) money, the single custodian is the state. As shown in [Reservation Principle](Reservation-Principle) state money exists for the purpose of accumulating a [reserve](Reserve-Definition). This provides a benefit to the state only because its custodial role can be abrogated both through liquidation of the reserve and issuance of fraudulent securities. In other words, custodial default is the reason for state money.
