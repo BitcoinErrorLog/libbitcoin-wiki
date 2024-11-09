@@ -1,3 +1,12 @@
+TLDR:
+
+This collection of topics on cryptoeconomics emerged from the need to avoid re-explaining concepts repeatedly on social media. The writing style remains brief and assumes a solid understanding of Bitcoin and economics. 
+
+Over time, these ad-hoc observations have evolved into a cohesive set of principles aimed at expanding understanding. The approach draws from Rational Economics, similar to Austrian Economics but rooted strictly in deductive reasoning. Influences include Mises and Rothbard, though I diverge where errors or biases regarding state fiat money arise. The goal is to ensure accurate critique, avoiding irrational assumptions. These concise insights aim to simplify complex ideas and uncover new discoveries in economic theory and Bitcoin's unique dynamics.
+
+--------
+
+
 See the "Cryptoeconomics" side menu for a full list of topics.
 
 ***
