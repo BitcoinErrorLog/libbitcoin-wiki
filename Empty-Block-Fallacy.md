@@ -1,3 +1,11 @@
+TLDR:
+
+The theory that mining empty blocks is an attack misunderstands Bitcoin mechanics. Empty blocks earn no transaction fees, only the subsidy, which compensates for security through hash power. Mining empty blocks is valid under consensus rules and is indistinguishable from not mining for a short time. \
+
+If a miner opts out of including transactions, it doesn't reduce the overall security; rather, it might even make attacks more costly by ensuring difficulty remains high. Thus, empty block mining, while potentially economically inefficient for miners, cannot be classified as an attack, and the theory is invalid.
+
+--------
+
 There is a theory that the [mining](Glossary#mine) of empty [blocks](Glossary#block) is an [attack](Glossary#attack). The theory does not require that the blocks are mined on a [weak](Glossary#weak) [branch](Glossary#branch) in an attempt to enable [double-spending](Glossary#double-spend), nor does it specify what [person](Glossary#person) is attacked.
 
 Consider the following:
