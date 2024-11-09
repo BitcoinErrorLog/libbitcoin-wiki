@@ -1,3 +1,11 @@
+TLDR:
+
+The theory that mining simply "follows" Bitcoin's price, as if it has no influence, is flawed. Miners take entrepreneurial risk, anticipating future value before rewards materialize. The first miner couldn’t rely on historical prices, as none existed; they had to risk capital with no guarantee. This risk-taking is what creates the opportunity for utility.
+
+Miners and merchants each try to maximize their outcomes—miners seek high fees, merchants seek low ones. Mining requires anticipating future demand, not reacting to historical values, just like any production precedes consumption. The belief that mining only responds to price ignores that miners are part of the demand that shapes value and utility, and that production must always lead consumption.
+
+--------
+
 There is a theory that [mining](Glossary#mine) "follows" [price](Glossary#price), or more specifically, [reward](Glossary#reward) [value](Glossary#value). The implication is that mining is slaved to price, lacking any input into [coin](Glossary#coin) [utility](Glossary#utility).
 
 Consider the [miner](Glossary#miner) who responds only to historical reward values. This [person](Glossary#person) cannot be the first miner, because the reward has no historical value. No price can be established because no [trades](Glossary#trade) have occurred. The miner might have heard that a number of [unconfirmed](Glossary#unconfirmed) [units](Glossary#unit) bought a pizza, but maybe the same units are [double-spent](Glossary#double-spend). He must anticipate a certain level of future net return on capital that is unknowable until it either materializes, or does not. This is the nature of entrepreneurial risk. The risk must be taken before the product can exist. One might believe that the risk can be shifted to the consumer, with advance ordering. But at that point the consumer has become the entrepreneur, providing the capital for, and assuming the risk of, production.
