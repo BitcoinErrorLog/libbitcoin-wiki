@@ -1,3 +1,11 @@
+TLDR:
+
+The theory that immutable claims can secure property ownership, including against custodial risk, misunderstands the nature of claims. Control always rests with the custodian, making them a trusted third party. Immutable claims do not protect against custodian failure or state intervention, as seen with historical examples of state seizure.
+
+While immutable storage might prevent claim data loss, owners still need to prove their ownership to the custodian, so the security risk just shifts forms. Bitcoin avoids these issues by being non-custodial—its value is held by the merchants and users themselves. The "blockchain fallacy" wrongly attributes Bitcoin’s security to its data structure rather than its distributed, non-custodial nature.
+
+--------
+
 There is a theory that property [ownership](Glossary#owner) can be secured by immutable [claim-keeping](Glossary#claimant), both against claim loss and [Custodial Risk](Custodial-Risk-Principle).
 
 Given that a claim is not itself the property, control of the property rests with the [custodian](Glossary#custodian) against whom the claim is made. A custodian has the ability to surrender or retain the property and is therefore a [trusted third party](https://en.wikipedia.org/wiki/Trusted_third_party). Abrogation of a claim by its custodian is always mitigated by custodian signature, cryptographic or otherwise, with enforcement of the claim left to its holder.
