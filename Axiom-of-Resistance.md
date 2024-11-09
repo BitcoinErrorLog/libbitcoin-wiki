@@ -1,3 +1,10 @@
+TLDR:
+Bitcoin's foundation includes an "axiom of resistance"—the belief it can resist state control. This axiom is unprovable but critical, similar to how parallel lines never meet in Euclidean geometry. Without this assumption, Bitcoin's key features like being permissionless and censorship-resistant don’t hold up.
+
+Ignoring this axiom leads to a misinterpretation of Bitcoin’s goals. Bitcoin without resistance becomes just another centralized system, much like PayPal, which abandoned the resistance axiom early on to become what it is today.
+
+--------
+
 In modern logic an [axiom](https://en.wikipedia.org/wiki/Axiom) is a premise, it cannot be proven. It is a starting assumption against which other things may be proven. For example, in [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry) one cannot prove that parallel lines never meet. It simply defines the particular geometry.
 
 Proving statements about Bitcoin requires reliance on axiomatic systems, specifically [mathematics](https://en.wikipedia.org/wiki/Zermelo%E2%80%93Fraenkel_set_theory), [probability](https://en.wikipedia.org/wiki/Probability_axioms) and [catallactics](https://en.wikipedia.org/wiki/Catallactics), and therefore the assumptions upon which they rely. However Bitcoin also relies on an axiom not found in these systems. Satoshi alludes to this in an early [statement](http://satoshi.nakamotoinstitute.org/emails/cryptography/4):
