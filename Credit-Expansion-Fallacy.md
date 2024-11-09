@@ -1,3 +1,13 @@
+TLDR:
+
+Credit expansion can’t be eliminated by removing fractional banking; it happens naturally through lending as both lender and borrower hold the same value. Credit is inherent in production—removing it would end all economic activity.
+
+Lenders must hoard some liquidity, and lending—whether by banks or others—depends on time preference, setting interest rates and credit availability. Bitcoin, like any money, can be lent, and it doesn’t stop credit expansion.
+
+Eliminating credit expansion means infinite time preference, no lending, and no production. Therefore, Bitcoin cannot eliminate credit expansion, making that theory invalid.
+
+--------
+
 Credit expansion is the multiplication of credit against [money](Money-Taxonomy), resulting from lending. When a loan is issued the lender and borrower both appear to hold the same money. Due to the apparent [inflationary](https://en.wikipedia.org/wiki/Monetary_inflation) nature of credit expansion, it is commonly treated as an adverse effect on [people](Glossary#person) holding the money. Because banks are the most visible lenders this effect is often attributed to banking itself. There is a theory that Bitcoin can eliminate the effects of [fractional banking](https://en.m.wikipedia.org/wiki/Fractional-reserve_banking) and thereby eliminate credit expansion.
 
 Saving encompasses [hoarding](Glossary#hoard) and [investing](Glossary#lend). Hoarding implies ongoing [depreciation](Depreciation-Principle), which is actual consumption. Investing is lending to production, and implies no depreciation as products must exist before they can depreciate. Investment includes both debt and equity contracts as the distinction is strictly financial, having [no economic significance](https://mises.org/library/man-economy-and-state-power-and-market/html/p/996).
