@@ -1,3 +1,11 @@
+TLDR:
+
+Power in Bitcoin lies with miners and merchants, but they aren’t locked in a checks-and-balances system. Miners choose which transactions to include, merchants validate them—each independent of the other. They influence, but don't control, each other, much like customers and suppliers. Together, miners and merchants resist state coercion, but alone, neither has full power.
+
+Bitcoin's true power struggle is between individuals and the state, relying on decentralized participation to stay censorship-resistant. Seeing miners and merchants as adversaries misses the point: they engage in voluntary, mutually-beneficial trade. The idea that centralized mining can be countered by distributed validation misunderstands Bitcoin’s security. Both miners and merchants need each other, and their cooperation—not conflict—secures the network.
+
+--------
+
 [Power](Glossary#power) in Bitcoin rests with [miners](Glossary#miner) and [merchants](Glossary#merchant). Yet these two powers are not "balanced" between each other, as if locked in some sort of [checks-and-balances](https://en.wikipedia.org/wiki/Separation_of_powers#Checks_and_balances) system. Miner power is [orthogonal](https://en.wikipedia.org/wiki/Orthogonality) to merchant power. Miners control [transaction](Glossary#transaction) selection, merchants control [validity](Glossary#validity), and neither can control the other. Not surprisingly, in the original [description](https://bitcoin.org/bitcoin.pdf) and [implementation](Glossary#implementation) these roles were combined.
 
 Power is not the same as influence. Merchants can influence miners by not buying the service. Miners can similarly influence merchants by not producing it. These choices manifest as [splits](Glossary#split) or [stalls](Glossary#stall). However the nature of power is that it can (and often does) ignore influence. The [state](Glossary#state) has power; it can apply [coercion](Glossary#coercion) and [co-option](Glossary#co-option) while ignoring influence. Merchants and miners *together* have the power to [defend](Risk-Sharing-Principle) against these aggressions, but neither can do so without the support of the other.
