@@ -1,3 +1,9 @@
+TLDR;
+
+This theory claims that Proof-of-Work (PoW) will eventually consume all available energy. However, PoW primarily aims to establish a financial barrier against double-spending. The security barrier is a function of hash cost, rate, and time. As energy supply dwindles, prices rise, reducing energy usage at a constant security level. Consequently, Bitcoin mining will adjust to ensure energy is not exhausted, making the theory invalid.
+
+--------
+
 There is a theory that [proof-of-work](Glossary#proof-of-work) (PoW) may exhaust all energy available to people. PoW converts energy into a [monotonically increasing](https://en.wikipedia.org/wiki/Monotonic_function) [double-spend](Glossary#double-spend) barrier for any given [transaction](Glossary#transaction). This is comparable to the energy expended in securing any money against counterfeit (by its own issuer or otherwise).
 
 The purpose of any security measure is to create a cost necessary to overcome the measure, i.e. a financial barrier. Bitcoin creates its double-spend barrier by compelling the [attacker](Glossary#attack) to replace the [branch](Glossary#branch) of the targeted transaction with one of probabilistically greater [work](Glossary#work). Interestingly, such a replacement raises the barrier to subsequent attackers. **The energy expended is not independently important, the erected barrier is the attacker's necessary financial burden.**
