@@ -1,3 +1,11 @@
+TLDR:
+
+Applying the Regression Theorem to Bitcoin suggests it began as a "collectible" valued by monetary theorists, transitioning to a medium of exchange through bartering. This implies Bitcoin fits the theorem's idea that all money must originate from a commodity with initial nonmonetary value.
+
+However, if a "commodity" can be anything—even with purely monetary potential—the theorem becomes tautological, simply stating "money is money." The Regression Theorem explicitly ties commodity to industrial use, not abstract interest. Mislabeling Bitcoin as a commodity undermines the distinction the theorem tries to make, reducing its explanatory power to circular reasoning.
+
+--------
+
 In attempting to apply the [Regression Theorem](Regression-Fallacy) to Bitcoin one may postulate that Bitcoin began as a "collectible", arising from interest by monetary theorists. The collectible obtained original [use value](https://en.m.wikipedia.org/wiki/Use_value) due to their personal preferences. It was then [bartered](https://en.m.wikipedia.org/wiki/Barter) as a consequence of this [value](Glossary#value), transitioning to a [medium of exchange](https://en.m.wikipedia.org/wiki/Medium_of_exchange) based on the memory of barter value.
 
 This appears consistent with the [theorem](https://mises.org/library/human-action-0/html/pp/778), which argues that all [money](Money-Taxonomy) *must* originate from a [commodity](https://en.m.wikipedia.org/wiki/Commodity) that obtains barter and then monetary [exchange](Glossary#exchange) value. Yet if commodity value can arise from potential as money then the theorem is [tautological](https://en.m.wikipedia.org/wiki/Tautology_(logic)), implying nothing more than money is money.
